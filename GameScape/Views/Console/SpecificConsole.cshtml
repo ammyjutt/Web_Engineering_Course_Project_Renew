@@ -1,0 +1,239 @@
+﻿@model Product;
+
+
+
+
+
+
+
+
+<div id="outer-container">
+    <img src="@Url.Content(Model.ThumbnailPath)" />
+
+    <div id="inner-container"></div>
+
+    <div class="h1">
+        @Model.GameTitle
+    </div>
+</div>
+
+<section id="section-two">
+    <div id="firstcont" class="container">
+        <div class="row firstrow">
+            <div id="iconbox" class="col-sm-8 col-md-3 ml-1 text-center">
+                <img src="@Url.Content(Model.CoverPhotoPath)" class="img-fluid" />
+            </div>
+
+            <div class="col mx-5 mt-5">
+                <div class="row">
+                    <div class="text-wrap">
+                        <div class="h3">Features:</div>
+                    </div>
+                </div>
+
+                <div class="row mt-2 mb-3">
+                    <div class="col">
+                        <div class="text-left">
+                            <i class="fa-solid fa-check"></i><b> Price: </b>
+                            <span>$34</span>
+                        </div>
+                        <div class="text-left">
+                            <i class="fa-solid fa-check"></i><b> Availability: </b>
+                            <span>Offline</span>
+                        </div>
+                        <div class="text-left">
+                            <i class="fa-solid fa-check"></i><b> Players: </b>
+                            <span> Multi-Player</span>
+                        </div>
+                        <div class="text-left">
+                            <i class="fa-solid fa-check"></i><b> Age: </b>
+                            <span> 17+</span>
+                        </div>
+                        <div class="text-left">
+                            <i class="fa-solid fa-check"></i><b> Type: </b>
+                            <span> Action</span>
+                        </div>
+                        <div class="text-left">
+                            <i class="fa-solid fa-check"></i><b> Device: </b>
+                            <span> Xbox</span>
+                        </div>
+                        <div class="text-left">
+                            <i class="fa-solid fa-check"></i><b> Awards: </b>
+                            <span> Editor's Choice</span>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+                <div id="buttons-row" class="row">
+                    <div class="col d-flex justify-content-center">
+                        <a asp-controller="Order" asp-action="Checkout">
+
+
+                            <button type="button" class="btn btn-warning top-button">
+                                Buy Now
+                            </button>
+
+                        </a>
+
+
+
+                        <form action="/Order/AddToCart" method="post">
+
+
+
+                            <input type="hidden" name="Id" value="@Model.Id" />
+                            <input type="hidden" name="Name" value="@Model.GameTitle" />
+                            <input type="hidden" name="Price" value="@Model.Price" />
+                            <input type="hidden" name="Image" value="@Model.CoverPhotoPath" />
+                            <input type="hidden" name="Category" value="@Model.ProductType" />
+                            <input type="hidden" name="Quantity" value=1 />
+
+
+
+                            <button type="submit" class="btn btn-dark top-button">
+                                <i class="fa-solid fa-cart-shopping"></i>
+                            </button>
+
+
+                        </form>
+
+ 
+
+
+
+
+           
+
+
+
+                        <form style="display:inline" action="/Home/AddToFavs" method="post">
+
+
+                            <input type="hidden" name="Id" value="@Model.Id" />
+                            <input type="hidden" name="Name" value="@Model.GameTitle" />
+                            <input type="hidden" name="Price" value="@Model.Price" />
+                            <input type="hidden" name="Image" value="@Model.CoverPhotoPath" />
+                            <input type="hidden" name="Category" value="@(Model.ProductType)" />
+                            <input type="hidden" name="Quantity" value=1 />
+
+
+
+                            <button type="submit" class="btn btn-dark top-button">
+                                <i class="fa-regular fa-heart"></i>
+                            </button>
+
+                        </form>
+
+
+
+
+
+@*                         <button type="button" class="btn btn-dark top-button">
+                            <i class="fa-regular fa-heart"></i>
+                        </button> *@
+
+                        <a href="https://www.youtube.com/watch?v=ztjfwecrY8E&pp=ygUVY2FsbCBvZiBkdXR5IHRyYWlsZXIg">
+                            <button type="button" class="btn btn-dark top-button">
+                                <i class="fa-solid fa-play"></i>
+                            </button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section id="screeshots">
+    <div id="screenshots-container" class="container-fluid">
+        <div class="row">
+            <div class="col text-center">
+                <div class="h3">Screenshots</div>
+            </div>
+        </div>
+
+        <div class="row d-flex justify-content-center">
+            <div class="col-11">
+                <div id="carouselExampleIndicators"
+                     class="carousel slide"
+                     data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleIndicators"
+                            data-slide-to="0"
+                            class="active"></li>
+                        <li data-target="#carouselExampleIndicators"
+                            data-slide-to="1"></li>
+                        <li data-target="#carouselExampleIndicators"
+                            data-slide-to="2"></li>
+                    </ol>
+                    <div class="carousel-inner">
+
+
+
+                        @for (int i=0; i<Model.ScreenshotPath.Split(',').Length; i++)
+                        {
+                            string path = Model.ScreenshotPath.Split(',')[i];
+                            <div class="carousel-item @(i == 0 ? "active" : "")">
+                                <img src="@Url.Content(path)"
+                                     class="d-block w-100"
+                                     alt="..." />
+                            </div>
+                        }
+
+
+                    </div>
+                    <a class="carousel-control-prev"
+                       href="#carouselExampleIndicators"
+                       role="button"
+                       data-slide="prev">
+                        <span class="carousel-control-prev-icon"
+                              aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next"
+                       href="#carouselExampleIndicators"
+                       role="button"
+                       data-slide="next">
+                        <span class="carousel-control-next-icon"
+                              aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section id="video-section">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col text-center">
+                <div class="h3">Watch Preview</div>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col text-center video-frame">
+
+                <iframe width="1150" height="500" src="https://www.youtube.com/embed/RkC0l4iekYo?si=uMf6JE98HMDg93FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            </div>
+        </div>
+
+
+    </div>
+</section>
+
+
+
+

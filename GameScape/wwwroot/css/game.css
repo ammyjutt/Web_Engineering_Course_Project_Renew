@@ -1,0 +1,167 @@
+* {
+    margin: 0px;
+    padding: -10px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.firstrow img {
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+#firstcont {
+    margin-top: 50px;
+}
+
+#detailsbox {
+    border-radius: 15px;
+    background-color: rgb(234, 236, 240);
+}
+
+#gamenamelabel {
+    margin: 0px -30px;
+    border-radius: 15px 15px 0px 0px;
+    background-color: rgb(193, 196, 204);
+}
+
+#reviews {
+    border-radius: 10px;
+    background-color: rgb(244, 244, 244);
+    overflow-y: scroll;
+    height: 15rem;
+}
+
+#reviewslabel {
+    margin: 0px -30px;
+    padding-top: 1rem;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(215, 234, 212);
+}
+
+#reqlabel {
+    margin: 0px -30px;
+    padding-top: 1rem;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgb(215, 234, 212);
+}
+
+#req {
+    border-radius: 10px;
+    background-color: rgb(242, 242, 242);
+}
+
+ul {
+    list-style-type: square;
+}
+
+#lastlist {
+    list-style-type: none;
+}
+
+#tags {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#tags button {
+    border-radius: 100px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    margin: 0px 10px;
+}
+
+#tags-container {
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(223, 235, 224);
+}
+
+.carousel-item img {
+    border-radius: 15px;
+    max-height: 40rem;
+}
+
+#thumb {
+    width: 100%;
+    height: 700px;
+}
+
+.image-container {
+    position: relative;
+    overflow: hidden; /* Add this line */
+}
+
+    .image-container::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 50px; /* Adjust the height as needed */
+        background: linear-gradient( to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 100% ); /* Adjust the opacity value as needed */
+    }
+
+.img-fluid {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#outer-container {
+    position: relative;
+}
+
+#inner-container {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background-image: linear-gradient( to bottom, rgba(255, 255, 255, 0), rgb(5, 5, 5) );
+}
+
+#buttons-row {
+    margin-top: 3rem;
+}
+
+#outer-container img {
+    width: 100%;
+    height: 700px;
+}
+
+#outer-container .h1 {
+    z-index: 4;
+    color: white;
+    font-size: 4rem;
+    position: absolute;
+    bottom: 10px;
+    margin-left: 5%;
+}
+
+.fa-icon-circle {
+    font-size: 10px;
+}
+
+.top-button {
+    height: 3rem;
+    width: 7rem;
+    border-radius: 3rem;
+    margin: 0px 5px;
+}
+
+
+
+
+iframe {
+    border-radius: 1rem;
+}

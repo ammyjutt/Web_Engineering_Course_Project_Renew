@@ -1,0 +1,44 @@
+﻿@model List<Order>
+
+
+<br>
+<br>
+<br>
+
+<p>We have these orders</p>
+
+
+
+
+
+
+
+<div>
+    @foreach (var o in Model)
+    {
+        <div>
+           <span>OrderID: </span> @o.orderId
+        </div>
+        <div>
+            <span>Address: </span>  @o.adress
+        </div>
+
+        <div>
+            <span>PostalCode: </span>  @o.postalCode
+        </div>
+
+        <div>
+            <span>CardNo: </span>  @o.cardNumber
+        </div>
+        <div>
+            <span>Expiration: </span>  @o.expiration
+        </div>
+
+        <br>
+    }
+</div>
+
+
+<br>
+<br>
+<br>

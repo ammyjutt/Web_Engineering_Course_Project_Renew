@@ -1,0 +1,91 @@
+﻿@model List<Product>;
+
+
+
+<div class="container">
+    <div class="row">
+        @foreach (var p in Model)
+        {
+            <div class="col-3">
+                <a asp-action="ShowSpecificProduct" asp-route-id="@p.Id">
+                    <div class="mycard text-center">
+                        <div class="card-img-div">
+                            <img src="@Url.Content(p.CoverPhotoPath)"
+                                 class="img-fluid card-img"
+                                 alt="" />
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">@p.GameTitle</h5>
+                            <button type="button" class="btn btn-success">
+                                <i class="fa-solid fa-lg fa-dollar-sign"></i> @p.Price
+                                
+                            </button>
+
+
+
+                            
+                           <form style="display:inline" action="/Home/AddToFavs" method="post">
+
+
+
+                                <input type="hidden" name="Id" value="@p.Id" />
+                                <input type="hidden" name="Name" value="@p.GameTitle" />
+                                <input type="hidden" name="Price" value="@p.Price" />
+                                <input type="hidden" name="Image" value="@p.CoverPhotoPath" />
+                                <input type="hidden" name="Category" value="@( "All"+p.ProductType )" />
+                                <input type="hidden" name="Quantity" value=1 />
+
+
+
+                                <button type="submit" class="btn btn-secondary ">
+                                    <i class="fa-solid fa-large fa-heart"></i>
+                                </button>
+
+                            </form>
+
+
+
+
+
+                            <form style="display:inline;" action="/Order/AddToCart" method="post">
+
+
+
+                                <input type="hidden" name="Id" value="@p.Id" />
+                                <input type="hidden" name="Name" value="@p.GameTitle" />
+                                <input type="hidden" name="Price" value="@p.Price" />
+                                <input type="hidden" name="Image" value="@p.CoverPhotoPath" />
+                                <input type="hidden" name="Category" value=@("All"+p.ProductType) />
+                                <input type="hidden" name="Quantity" value=1 />
+
+
+
+                                <button type="submit" class="btn btn-secondary">
+                                    <i class="fa-solid fa-cart-shopping"></i>
+                                </button>
+
+
+                            </form>
+
+
+
+
+                            
+
+
+
+                        </div>
+                    </div>
+                </a>
+            </div>
+        }
+    </div>
+</div>
+
+
+
+
+
+
+
+

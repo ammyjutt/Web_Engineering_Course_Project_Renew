@@ -1,0 +1,1529 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameScape.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GameScape.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\00ce0dec-d853-4fb5-a636-348e051b263d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\00ce0dec-d853-4fb5-a636-348e051b263d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\04429c1b-885a-4bc6-997d-c41143621575.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\04429c1b-885a-4bc6-997d-c41143621575.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\052dbfd2-9f4f-416f-83d5-42cfb421b9be.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\052dbfd2-9f4f-416f-83d5-42cfb421b9be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\05f6c38f-bfe9-43bd-9c8b-e40532e44ee1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\05f6c38f-bfe9-43bd-9c8b-e40532e44ee1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\06ec8388-12e7-47ae-9070-73f65e3b7b66.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\06ec8388-12e7-47ae-9070-73f65e3b7b66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\09f5020d-2ed2-4cd4-a942-1ec86bff611a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\09f5020d-2ed2-4cd4-a942-1ec86bff611a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\0a26a88b-9eaf-44f8-87f3-46117aadf694.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\0a26a88b-9eaf-44f8-87f3-46117aadf694.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\0bd2bf02-894a-412d-88e9-89a2195e2d05.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\0bd2bf02-894a-412d-88e9-89a2195e2d05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\0ff2edc2-c146-446d-a8b6-18bca4ebe128.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\0ff2edc2-c146-446d-a8b6-18bca4ebe128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\10ac4476-2f91-43e9-ba5e-ec73ebf264a3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\10ac4476-2f91-43e9-ba5e-ec73ebf264a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\1115d407-4dad-477b-919b-36be8e5e0635.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1115d407-4dad-477b-919b-36be8e5e0635.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\13e0d6ca-d673-42e1-9df2-a0fe39f2d45e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\13e0d6ca-d673-42e1-9df2-a0fe39f2d45e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\14c4473b-55b6-4b68-af2f-f88ce268a48b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\14c4473b-55b6-4b68-af2f-f88ce268a48b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\164be48e-51b5-41ab-a389-91322069a61e.png",
+      "PackagePath": "staticwebassets\\ProductImages\\164be48e-51b5-41ab-a389-91322069a61e.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\16dda19c-aa83-4e77-820f-675a89989b4f.png",
+      "PackagePath": "staticwebassets\\ProductImages\\16dda19c-aa83-4e77-820f-675a89989b4f.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\17bb7157-1bac-4574-ae74-59f38fa4b4cf.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\17bb7157-1bac-4574-ae74-59f38fa4b4cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\17cdfdff-86ba-4910-a56e-0a4b2abbcb5b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\17cdfdff-86ba-4910-a56e-0a4b2abbcb5b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\1972a1d9-944f-43ba-84ba-676742025234.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1972a1d9-944f-43ba-84ba-676742025234.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\1a0ae5a4-f1cc-40ab-966f-317eb25452f4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1a0ae5a4-f1cc-40ab-966f-317eb25452f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\1a61dfc3-da44-4ae9-8459-7e33481e81be.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1a61dfc3-da44-4ae9-8459-7e33481e81be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\1de301ff-faf0-462d-a8d3-e9b78d0a531d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1de301ff-faf0-462d-a8d3-e9b78d0a531d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\1deed63c-a29e-4564-a271-9b409121cf71.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1deed63c-a29e-4564-a271-9b409121cf71.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\1e5c7940-2a9f-4fb5-ac1a-37511e2aab90.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1e5c7940-2a9f-4fb5-ac1a-37511e2aab90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\1ea8ff94-1999-4fb6-9117-aeaf5700b263.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1ea8ff94-1999-4fb6-9117-aeaf5700b263.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\1fbd7ac7-370a-46ab-980a-2a67a6692663.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\1fbd7ac7-370a-46ab-980a-2a67a6692663.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\20937078-5c8a-4452-a786-cf5e1b801bd4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\20937078-5c8a-4452-a786-cf5e1b801bd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\242108a4-c02d-4974-9a27-7e3d8347c417.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\242108a4-c02d-4974-9a27-7e3d8347c417.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\243fee14-713f-4330-bcc3-4f170c55fd73.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\243fee14-713f-4330-bcc3-4f170c55fd73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\2451defd-be2a-4eb6-962a-a49c08cb8770.png",
+      "PackagePath": "staticwebassets\\ProductImages\\2451defd-be2a-4eb6-962a-a49c08cb8770.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\24979a77-a775-4864-8112-fba207eef919.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\24979a77-a775-4864-8112-fba207eef919.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\261ce036-eecb-4eaa-b8f3-cc4385e74e25.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\261ce036-eecb-4eaa-b8f3-cc4385e74e25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\29629721-bd69-4010-abd4-5fc0bb9b664c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\29629721-bd69-4010-abd4-5fc0bb9b664c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\2cd63252-7e40-47e0-9ba4-1a40af324d24.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2cd63252-7e40-47e0-9ba4-1a40af324d24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\2e57e39a-8804-4b76-bbf3-8dc61047c758.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\2e57e39a-8804-4b76-bbf3-8dc61047c758.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\30d09d4d-9c4a-4de4-a0d5-73439d0a04c4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\30d09d4d-9c4a-4de4-a0d5-73439d0a04c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\334c4c54-b1c0-40be-b1c9-5f73101e661b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\334c4c54-b1c0-40be-b1c9-5f73101e661b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\345a0467-e0a2-4097-82da-5e2487cc57fc.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\345a0467-e0a2-4097-82da-5e2487cc57fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\359e295b-f3b7-42b0-8eaf-924b074d3541.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\359e295b-f3b7-42b0-8eaf-924b074d3541.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\35da65a1-1be0-4712-a22c-cc95157b6ec2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\35da65a1-1be0-4712-a22c-cc95157b6ec2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\35e758bc-69f3-4c61-9d52-e82a02913d1b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\35e758bc-69f3-4c61-9d52-e82a02913d1b.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\36648844-1d8b-4133-90f1-fe648cf647ce.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\36648844-1d8b-4133-90f1-fe648cf647ce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\367ed7ed-c69b-4d6b-a0c6-d5649a733b0a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\367ed7ed-c69b-4d6b-a0c6-d5649a733b0a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\3b456de8-2b43-4b68-a08f-172c30da1396.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\3b456de8-2b43-4b68-a08f-172c30da1396.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\3c12de26-1032-4836-9928-8be5a9475039.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\3c12de26-1032-4836-9928-8be5a9475039.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\3fd79bed-d073-418a-b835-1063a48f8322.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\3fd79bed-d073-418a-b835-1063a48f8322.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\405e5d4c-ed04-404d-9b7e-112db1c2f00f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\405e5d4c-ed04-404d-9b7e-112db1c2f00f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\40f75757-7dcb-4c9c-b1da-8d8df409325e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\40f75757-7dcb-4c9c-b1da-8d8df409325e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\419d59c5-32d3-45be-a96d-cd1933460ab9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\419d59c5-32d3-45be-a96d-cd1933460ab9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\4319ccce-8914-4551-a704-6b611b954323.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\4319ccce-8914-4551-a704-6b611b954323.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\4401d005-2053-458b-a58a-8fe2f1d73332.png",
+      "PackagePath": "staticwebassets\\ProductImages\\4401d005-2053-458b-a58a-8fe2f1d73332.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\4514bfd7-3ece-48e7-a566-725e6b244fae.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\4514bfd7-3ece-48e7-a566-725e6b244fae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\45b52244-e152-4baf-9715-61b2e14c7bd4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\45b52244-e152-4baf-9715-61b2e14c7bd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\469d6460-8fe3-4c2d-9bef-c0ebb9992ed6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\469d6460-8fe3-4c2d-9bef-c0ebb9992ed6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\47590518-97bd-4417-a8d5-2393d4966414.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\47590518-97bd-4417-a8d5-2393d4966414.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\48c49731-be7e-4b7f-bc2a-05863b97a819.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\48c49731-be7e-4b7f-bc2a-05863b97a819.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\4a0967d7-4aa4-4d4c-8f78-3337d1081be9.png",
+      "PackagePath": "staticwebassets\\ProductImages\\4a0967d7-4aa4-4d4c-8f78-3337d1081be9.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\4b57fe94-0966-4731-8065-c526fea7319e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\4b57fe94-0966-4731-8065-c526fea7319e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\4db79d70-31e3-4f99-ab82-2877880dcda8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\4db79d70-31e3-4f99-ab82-2877880dcda8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\51b8fc8d-5731-4ed7-827a-2f21aaa07dc6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\51b8fc8d-5731-4ed7-827a-2f21aaa07dc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\52ca17b0-801a-4c6f-9b6e-e69d481cd5d3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\52ca17b0-801a-4c6f-9b6e-e69d481cd5d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\52f37193-3144-4e92-8617-48b186d76546.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\52f37193-3144-4e92-8617-48b186d76546.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\552d0dc4-13c6-46d6-ba6a-c465e4e9369f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\552d0dc4-13c6-46d6-ba6a-c465e4e9369f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\55544b37-0eb8-495c-a27e-9c365f59a506.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\55544b37-0eb8-495c-a27e-9c365f59a506.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\55b56312-8369-4db8-9c7c-dc43c7df05b5.png",
+      "PackagePath": "staticwebassets\\ProductImages\\55b56312-8369-4db8-9c7c-dc43c7df05b5.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\56c4acda-ddd1-46e3-a1d1-90722b886cc8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\56c4acda-ddd1-46e3-a1d1-90722b886cc8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\583a3ae8-88e6-4a81-a8df-5e104e584e99.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\583a3ae8-88e6-4a81-a8df-5e104e584e99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\58f3f78c-5c27-4ac4-b780-51757965d81c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\58f3f78c-5c27-4ac4-b780-51757965d81c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\615b3344-7ec4-471f-b07e-e38e135c0521.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\615b3344-7ec4-471f-b07e-e38e135c0521.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\628659c1-789d-4566-9fa2-d99ed0a87a08.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\628659c1-789d-4566-9fa2-d99ed0a87a08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\62f0b8ce-0234-47dc-9920-d709e1964e22.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\62f0b8ce-0234-47dc-9920-d709e1964e22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\653c46a9-65bc-4c1f-8c82-7bc68369fd4a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\653c46a9-65bc-4c1f-8c82-7bc68369fd4a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\6677c464-911c-4716-a097-5ac3a4844a06.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\6677c464-911c-4716-a097-5ac3a4844a06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\6692d37b-bf88-405e-b8fe-f7355a6e3d32.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\6692d37b-bf88-405e-b8fe-f7355a6e3d32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\66a95072-dd9e-459e-9cfa-a2878517c00a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\66a95072-dd9e-459e-9cfa-a2878517c00a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\679343e9-0372-4b9e-95ff-26ee87227520.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\679343e9-0372-4b9e-95ff-26ee87227520.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\696ff706-374f-444d-86a8-bb62d4ec301f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\696ff706-374f-444d-86a8-bb62d4ec301f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\7093ecf4-34c5-45df-be11-23ad866bef12.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\7093ecf4-34c5-45df-be11-23ad866bef12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\72ab79d4-5c7f-4bad-8ca4-5b1a6ee85af3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\72ab79d4-5c7f-4bad-8ca4-5b1a6ee85af3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\756bc46b-22f5-4c5b-9714-2600c9486b93.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\756bc46b-22f5-4c5b-9714-2600c9486b93.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\75851dd2-5934-4fc3-afa5-d13292c196d1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\75851dd2-5934-4fc3-afa5-d13292c196d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\7713a7ad-30c2-4ed4-9e62-d4511da710a7.png",
+      "PackagePath": "staticwebassets\\ProductImages\\7713a7ad-30c2-4ed4-9e62-d4511da710a7.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\7b22f7eb-ddc0-45d9-9c5d-c99c6a8127e4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\7b22f7eb-ddc0-45d9-9c5d-c99c6a8127e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\7b3075dc-2bc3-4f11-af3b-fb87acab0ead.png",
+      "PackagePath": "staticwebassets\\ProductImages\\7b3075dc-2bc3-4f11-af3b-fb87acab0ead.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\7b9d7343-3d87-4598-ac00-8056d7639e89.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\7b9d7343-3d87-4598-ac00-8056d7639e89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\7c4205a8-3df4-460b-ae1f-5df47fcf5f53.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\7c4205a8-3df4-460b-ae1f-5df47fcf5f53.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\7eb1457e-db57-43ef-afe7-1d06114d6351.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\7eb1457e-db57-43ef-afe7-1d06114d6351.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\7ec2f46e-2e49-4c60-81c5-2bb2f2b35f85.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\7ec2f46e-2e49-4c60-81c5-2bb2f2b35f85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\81230c53-c86b-48e7-b75e-5d912aa34a20.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\81230c53-c86b-48e7-b75e-5d912aa34a20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8173c1f7-ea1a-463c-b8bc-9aa756832b8a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8173c1f7-ea1a-463c-b8bc-9aa756832b8a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8299ab82-6561-4e1a-a7f4-370635bf6e2d.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8299ab82-6561-4e1a-a7f4-370635bf6e2d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\835ed6ed-64da-4cf3-9371-acd6f88d5e82.png",
+      "PackagePath": "staticwebassets\\ProductImages\\835ed6ed-64da-4cf3-9371-acd6f88d5e82.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8463ff16-e158-4421-95ae-4a0e4afe6c65.png",
+      "PackagePath": "staticwebassets\\ProductImages\\8463ff16-e158-4421-95ae-4a0e4afe6c65.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\846ecd18-1f1f-4843-8d94-f657cc9f72bc.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\846ecd18-1f1f-4843-8d94-f657cc9f72bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\86129e66-e7e2-455f-a20b-4c3cbe28322b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\86129e66-e7e2-455f-a20b-4c3cbe28322b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8675ac27-41aa-4ae5-9d3f-63b2e3d8ca19.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8675ac27-41aa-4ae5-9d3f-63b2e3d8ca19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\89df5e8c-02f4-457f-91d8-095aa63b76ab.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\89df5e8c-02f4-457f-91d8-095aa63b76ab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8a1c244e-18ba-4580-a2b2-eac9ebd5743c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8a1c244e-18ba-4580-a2b2-eac9ebd5743c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8acbce72-441d-410e-ace2-0d57fca26d2b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\8acbce72-441d-410e-ace2-0d57fca26d2b.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8bfd21f8-d514-43c6-a665-f8b959a6dc12.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8bfd21f8-d514-43c6-a665-f8b959a6dc12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8c6d10bc-a601-495c-959f-de0d456aef7b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8c6d10bc-a601-495c-959f-de0d456aef7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8cb3694f-1257-466a-bfac-e4582f17fecf.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8cb3694f-1257-466a-bfac-e4582f17fecf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\8deb76f3-b7ef-4486-95cd-a5a62eac99da.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\8deb76f3-b7ef-4486-95cd-a5a62eac99da.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\909d5b44-b759-4204-b895-b891d051f463.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\909d5b44-b759-4204-b895-b891d051f463.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\9302ee9c-3d5b-4b5b-9cec-d4b4730b2222.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9302ee9c-3d5b-4b5b-9cec-d4b4730b2222.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\94290ac2-e6f1-4dbd-aa7e-dd6dd5b9934c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\94290ac2-e6f1-4dbd-aa7e-dd6dd5b9934c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\9456d268-e1f3-4570-863f-08c23c6c8d45.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9456d268-e1f3-4570-863f-08c23c6c8d45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\966b86e8-d2dc-44da-b4bc-c421f818d6c8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\966b86e8-d2dc-44da-b4bc-c421f818d6c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\9673db24-2e45-4f9e-b7ea-4f4df1f3daa3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9673db24-2e45-4f9e-b7ea-4f4df1f3daa3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\9b0be733-698a-45f9-9d41-2572efe66f07.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9b0be733-698a-45f9-9d41-2572efe66f07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\9c75905f-4eb0-4228-a162-c3171a5e0f15.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9c75905f-4eb0-4228-a162-c3171a5e0f15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\9f8c819d-26a9-4af8-a6ad-af82030cb96b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9f8c819d-26a9-4af8-a6ad-af82030cb96b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\9fe22d30-9d9b-493e-8ce7-94ca7bc3271f.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\9fe22d30-9d9b-493e-8ce7-94ca7bc3271f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\a0b249a2-1009-418e-8256-e61590703af9.png",
+      "PackagePath": "staticwebassets\\ProductImages\\a0b249a2-1009-418e-8256-e61590703af9.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\a78533cd-6aca-4825-b4b2-48587e16b02e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\a78533cd-6aca-4825-b4b2-48587e16b02e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\a98a3098-d234-4925-a382-fc65bdfb0cdf.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\a98a3098-d234-4925-a382-fc65bdfb0cdf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\abaa31cd-953f-4601-a12e-72acfe951da6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\abaa31cd-953f-4601-a12e-72acfe951da6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\ae924a05-73aa-498e-8745-7220fe2ce39a.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ae924a05-73aa-498e-8745-7220fe2ce39a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\b023d8e6-4a22-4aba-9bf6-6ef740224caa.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\b023d8e6-4a22-4aba-9bf6-6ef740224caa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\b0b26f08-27f4-4b8a-a356-bdb05e3a3358.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\b0b26f08-27f4-4b8a-a356-bdb05e3a3358.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\b78445a2-a9b6-4464-a841-b8cf53987cae.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\b78445a2-a9b6-4464-a841-b8cf53987cae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\bb217419-583e-4c83-bb56-225a136ca950.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\bb217419-583e-4c83-bb56-225a136ca950.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\bd3b138d-e20f-4ddd-b38e-edca1868adda.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\bd3b138d-e20f-4ddd-b38e-edca1868adda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c0e42afc-0c73-464e-96c3-9341af0ce819.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\c0e42afc-0c73-464e-96c3-9341af0ce819.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c1adac3c-4342-4b3c-afa9-296d97f36966.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\c1adac3c-4342-4b3c-afa9-296d97f36966.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c2564b91-0177-4fc4-a70a-fd68471a8c8b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\c2564b91-0177-4fc4-a70a-fd68471a8c8b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c2b4e0ec-c901-4b2a-acd5-ea97f7f5970c.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\c2b4e0ec-c901-4b2a-acd5-ea97f7f5970c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c3c8ceab-4464-45bf-8bec-c3a30c0484ff.png",
+      "PackagePath": "staticwebassets\\ProductImages\\c3c8ceab-4464-45bf-8bec-c3a30c0484ff.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c4c298ce-ca0b-4228-ab9c-fbd02a4fa1de.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\c4c298ce-ca0b-4228-ab9c-fbd02a4fa1de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c5158b66-fb4f-4bd3-bc22-bc848d51d72b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\c5158b66-fb4f-4bd3-bc22-bc848d51d72b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c61a49d8-042d-4120-b781-8aecca23a508.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\c61a49d8-042d-4120-b781-8aecca23a508.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c7fafcb6-95a4-4167-b067-dce2f006774d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\c7fafcb6-95a4-4167-b067-dce2f006774d.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c83d32bd-8d35-4f76-afa0-d64bb6d37695.png",
+      "PackagePath": "staticwebassets\\ProductImages\\c83d32bd-8d35-4f76-afa0-d64bb6d37695.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\c8e0fc4b-4ce5-445a-a5d7-c36df960f47d.png",
+      "PackagePath": "staticwebassets\\ProductImages\\c8e0fc4b-4ce5-445a-a5d7-c36df960f47d.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\ce624eec-4e26-43fb-8c9a-a78a346abcc8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ce624eec-4e26-43fb-8c9a-a78a346abcc8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\ce637a07-3cc5-4ce2-aada-a22f8a35487e.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ce637a07-3cc5-4ce2-aada-a22f8a35487e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\cebe1fff-d546-4dd4-8d76-e08a0b793737.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\cebe1fff-d546-4dd4-8d76-e08a0b793737.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\cec63e59-98e9-4d7b-94dc-8167b790fe86.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\cec63e59-98e9-4d7b-94dc-8167b790fe86.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\ceda2f79-9574-4e49-9388-40a751da64dc.png",
+      "PackagePath": "staticwebassets\\ProductImages\\ceda2f79-9574-4e49-9388-40a751da64dc.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\d2412c2c-6edc-4c0e-a50f-3365211f4339.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\d2412c2c-6edc-4c0e-a50f-3365211f4339.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\d3caf4f9-aa0c-4d20-aa42-24d820a40ddc.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\d3caf4f9-aa0c-4d20-aa42-24d820a40ddc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\d4f0b9ed-d26b-4532-8986-ef0fec949eb9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\d4f0b9ed-d26b-4532-8986-ef0fec949eb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\d4ff63fe-7ae3-4c5e-81e1-9b7c218e8618.png",
+      "PackagePath": "staticwebassets\\ProductImages\\d4ff63fe-7ae3-4c5e-81e1-9b7c218e8618.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\d6f8670e-1252-479b-acf3-3524709ae01b.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\d6f8670e-1252-479b-acf3-3524709ae01b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\db0f8b47-7e30-41a6-bdb7-7b210b755261.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\db0f8b47-7e30-41a6-bdb7-7b210b755261.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\db95b90b-71cd-420d-8caa-e538a333fbbb.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\db95b90b-71cd-420d-8caa-e538a333fbbb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\dc2ea685-04a6-4ea3-87ba-54c8d40146b2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\dc2ea685-04a6-4ea3-87ba-54c8d40146b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\dc507567-55e0-487b-b6f2-1616dd570652.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\dc507567-55e0-487b-b6f2-1616dd570652.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\dcb2c127-aa15-4e18-9f9c-51d6dece9840.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\dcb2c127-aa15-4e18-9f9c-51d6dece9840.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\ddade24b-60a7-4d82-b157-749c1fb657e4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ddade24b-60a7-4d82-b157-749c1fb657e4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\df2a271c-a85b-429c-b406-8665dbda8cff.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\df2a271c-a85b-429c-b406-8665dbda8cff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\dfc3a8a2-6dd6-4001-960e-459442707c19.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\dfc3a8a2-6dd6-4001-960e-459442707c19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\e0896641-5acb-448d-92fa-cd1a910de7f8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e0896641-5acb-448d-92fa-cd1a910de7f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\e0d648bd-7ed0-4ab3-965a-cadf4565d1eb.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e0d648bd-7ed0-4ab3-965a-cadf4565d1eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\e180ba62-0262-4225-b5c3-8f8ac2895bc6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e180ba62-0262-4225-b5c3-8f8ac2895bc6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\e1f51b9a-fac1-4725-9510-39555df7d5ce.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e1f51b9a-fac1-4725-9510-39555df7d5ce.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\e4e960c0-bf17-439c-8e10-0ee44ac95661.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e4e960c0-bf17-439c-8e10-0ee44ac95661.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\e7f741c4-32d3-4fef-b7ab-805ba978e646.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e7f741c4-32d3-4fef-b7ab-805ba978e646.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\e845b9c1-0ad2-4be5-a0d9-dbdd590a07a1.png",
+      "PackagePath": "staticwebassets\\ProductImages\\e845b9c1-0ad2-4be5-a0d9-dbdd590a07a1.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\e883d12c-5069-4bc6-8ec9-9d18f760e9a1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e883d12c-5069-4bc6-8ec9-9d18f760e9a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\e884549c-e6f7-4c21-9132-f54ab81e7144.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\e884549c-e6f7-4c21-9132-f54ab81e7144.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\eba6b72b-a272-4f98-a492-0e71864e6930.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\eba6b72b-a272-4f98-a492-0e71864e6930.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\ee98e90b-0a0b-434a-b0ef-f5fd6cb148f9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ee98e90b-0a0b-434a-b0ef-f5fd6cb148f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\f80bba12-a4e8-4266-93cc-9e951ed3e654.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\f80bba12-a4e8-4266-93cc-9e951ed3e654.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\fdc00edf-0ddc-46eb-946b-7c6f43c74ca6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\fdc00edf-0ddc-46eb-946b-7c6f43c74ca6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\ProductImages\\ff804417-27e8-431b-bc3a-0dc9a665ae4b.png",
+      "PackagePath": "staticwebassets\\ProductImages\\ff804417-27e8-431b-bc3a-0dc9a665ae4b.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\css\\allgames.css",
+      "PackagePath": "staticwebassets\\css\\allgames.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\css\\game.css",
+      "PackagePath": "staticwebassets\\css\\game.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\css\\gametype.css",
+      "PackagePath": "staticwebassets\\css\\gametype.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\css\\last.css",
+      "PackagePath": "staticwebassets\\css\\last.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\css\\style.css",
+      "PackagePath": "staticwebassets\\login\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\login\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\material-icon\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\material-icon\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\material-icon\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-300italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-300italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-500italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-500italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-600.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-600.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-800italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-800italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-900.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\poppins-v5-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\poppins-v5-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-700italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\login\\fonts\\poppins\\roboto-condensed-v16-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\images\\signin-image.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\signin-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\images\\signup-image.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\signup-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\signin.html",
+      "PackagePath": "staticwebassets\\login\\signin.html"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\signup.html",
+      "PackagePath": "staticwebassets\\login\\signup.html"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\vendor\\jquery\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\jquery\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\login\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\login\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\2thumb.png",
+      "PackagePath": "staticwebassets\\pics\\2thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\Xbox Games _ Xbox\\Unconfirmed 970409.crdownload",
+      "PackagePath": "staticwebassets\\pics\\Xbox Games _ Xbox\\Unconfirmed 970409.crdownload"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\Xbox Games _ Xbox\\gamethumb2.png",
+      "PackagePath": "staticwebassets\\pics\\Xbox Games _ Xbox\\gamethumb2.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\Xbox Games _ Xbox\\gamethumb3.jpg",
+      "PackagePath": "staticwebassets\\pics\\Xbox Games _ Xbox\\gamethumb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\Xbox Games _ Xbox\\gamethumbone.png",
+      "PackagePath": "staticwebassets\\pics\\Xbox Games _ Xbox\\gamethumbone.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\Xbox Games _ Xbox\\greatnewgames.png",
+      "PackagePath": "staticwebassets\\pics\\Xbox Games _ Xbox\\greatnewgames.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\Xbox Series_S - 1TB _Black_ _ Xbox\\VisualStudioSetup.exe",
+      "PackagePath": "staticwebassets\\pics\\Xbox Series_S - 1TB _Black_ _ Xbox\\VisualStudioSetup.exe"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\Xbox Series_S - 1TB _Black_ _ Xbox\\consolecard.jpg",
+      "PackagePath": "staticwebassets\\pics\\Xbox Series_S - 1TB _Black_ _ Xbox\\consolecard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\Xbox Series_S - 1TB _Black_ _ Xbox\\fadingconsole.png",
+      "PackagePath": "staticwebassets\\pics\\Xbox Series_S - 1TB _Black_ _ Xbox\\fadingconsole.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\Xbox\\xbox_thumb_3.jpg",
+      "PackagePath": "staticwebassets\\pics\\Xbox\\xbox_thumb_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\angryman.jpg",
+      "PackagePath": "staticwebassets\\pics\\angryman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\bigman.jpg",
+      "PackagePath": "staticwebassets\\pics\\bigman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\boi.jpg",
+      "PackagePath": "staticwebassets\\pics\\boi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\callofduty.jpg",
+      "PackagePath": "staticwebassets\\pics\\callofduty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\cardpanther.jpg",
+      "PackagePath": "staticwebassets\\pics\\cardpanther.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\co.png",
+      "PackagePath": "staticwebassets\\pics\\consoles\\co.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console1.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console2.png",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console2.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console3.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console4.png",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console4.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console_cards\\1.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console_cards\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console_cards\\2.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console_cards\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console_cards\\3.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console_cards\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console_cards\\4.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console_cards\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console_cards\\5.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console_cards\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\console_cards\\6.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\console_cards\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\golden-beutiful-controller.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\golden-beutiful-controller.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\golden_controller.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\golden_controller.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\consoles\\golden_controller_2.jpg",
+      "PackagePath": "staticwebassets\\pics\\consoles\\golden_controller_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\controllerone.jpg",
+      "PackagePath": "staticwebassets\\pics\\controllerone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\controllertrhee.jpg",
+      "PackagePath": "staticwebassets\\pics\\controllertrhee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\controllertwo.jpg",
+      "PackagePath": "staticwebassets\\pics\\controllertwo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\freefire.png",
+      "PackagePath": "staticwebassets\\pics\\freefire.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\gamecard2.jpg",
+      "PackagePath": "staticwebassets\\pics\\gamecard2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\gamecard4.jpg",
+      "PackagePath": "staticwebassets\\pics\\gamecard4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\gamecardpic1.jpg",
+      "PackagePath": "staticwebassets\\pics\\gamecardpic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\gamescreenshots\\1.jpg",
+      "PackagePath": "staticwebassets\\pics\\gamescreenshots\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\gamescreenshots\\greenflash.jpg",
+      "PackagePath": "staticwebassets\\pics\\gamescreenshots\\greenflash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\gamescreenshots\\greengun.jpg",
+      "PackagePath": "staticwebassets\\pics\\gamescreenshots\\greengun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\gamescreenshots\\rifle.png",
+      "PackagePath": "staticwebassets\\pics\\gamescreenshots\\rifle.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\greencar.jpg",
+      "PackagePath": "staticwebassets\\pics\\greencar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\images\\freedel.png",
+      "PackagePath": "staticwebassets\\pics\\images\\freedel.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\images\\great.png",
+      "PackagePath": "staticwebassets\\pics\\images\\great.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\images\\return.jpg",
+      "PackagePath": "staticwebassets\\pics\\images\\return.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\images\\secure.png",
+      "PackagePath": "staticwebassets\\pics\\images\\secure.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\manygames.png",
+      "PackagePath": "staticwebassets\\pics\\manygames.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\nomansky.png",
+      "PackagePath": "staticwebassets\\pics\\nomansky.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\pacman.png",
+      "PackagePath": "staticwebassets\\pics\\pacman.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\string.png",
+      "PackagePath": "staticwebassets\\pics\\string.png"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\trynew.jpg",
+      "PackagePath": "staticwebassets\\pics\\trynew.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\pics\\tryone.jpg",
+      "PackagePath": "staticwebassets\\pics\\tryone.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameScape.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GameScape.props",
+      "PackagePath": "build\\GameScape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GameScape.props",
+      "PackagePath": "buildMultiTargeting\\GameScape.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GameScape.props",
+      "PackagePath": "buildTransitive\\GameScape.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,260 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section id="front-section">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-6">
+                <div>
+                <div id="freedom-text" class="h1 text-wrap mb-5 mt-5">
+                    Your Freedom Begins With
+                    <span style="color: green">GameScape</span>
+                </div>
+                <span id="aio-text" class=" mt-0">All-in-one place for beloved gamers </span>
+
+                </div>
+
+
+
+                <div id="login-signup-container" class="container-fluid">
+
+                    <div class="row">
+
+                        <div class="col-6">
+                            <h5>
+                                New to GameScape?</h5>
+                                <partial name="_RegisterPartial" />
+                        </div>
+
+
+                        <div class="col-6">
+                            
+                                    <partial name="_LoginPartial" />
+                                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <img src="~/pics/tryone.jpg" class="img-fluid" alt="" />
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section id="services-buttons">
+    <div class="container-fluid">
+        <div id="genre-header-row" class="row mb-4">
+            <div class="col text-center">
+                <div class="h2">
+                    Check Out <span style="color: green">New Arrival</span>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row genrerow flex-wrap justify-content-center">
+
+            <div class="col-md-2 col-sm-5 genrecol text-center">
+                <a href="/Game/Index">
+                    <div id="genrebox">
+                        <button type="button" class="btn">
+                            <i class="fa-icon fa-solid fa-car fa-xl"></i>
+                        </button>
+                        <h6>Games</h6>
+                    </div>
+                </a>
+            </div>
+
+
+
+            <div class="col-md-2 col-sm-5 genrecol text-center">
+                <a href="/Console/Index">
+                    <div id="genrebox">
+                        <button type="button" class="btn">
+                            <i class="fa-icon fa-solid fa-box fa-xl"></i>
+                        </button>
+                        <h6>New Consoles</h6>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-md-2 col-sm-5 genrecol text-center">
+                <a href="/Home/NewDeals">
+                    <div id="genrebox">
+                        <button type="button" class="btn">
+                            <i class="fa-icon fa-solid fa-tag fa-xl"></i>
+                        </button>
+                        <h6>New Deals</h6>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="row genrerow flex-wrap justify-content-center">
+            <div class="col-md-2 col-sm-5 genrecol text-center">
+                <a href="/Xbox/Index">
+                    <div id="genrebox">
+                        <button type="button" class="btn">
+                            <i class="fa-icon fa-solid fa-gamepad fa-xl"></i>
+                        </button>
+                        <h6>Xbox</h6>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-md-2 col-sm-5 genrecol text-center">
+                <a href="/Home/TimeLimited">
+                    <div id="genrebox">
+                        <button type="button" class="btn">
+                            <i class="fa-icon fa-solid fa-clock fa-xl"></i>
+                        </button>
+                        <h6>Time Limited</h6>
+                    </div>
+                </a>
+            </div>
+
+
+
+            <div class="col-md-2 col-sm-5 genrecol text-center">
+                <a href="/Home/Misc">
+                    <div id="genrebox">
+                        <button type="button" class="btn">
+                            <i class="fa-icon fa-solid fa-icons fa-xl"></i>
+                        </button>
+                        <h6>Misc</h6>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+<section id="all-games">
+
+    <div class="container-fluid position-relative">
+        <div class="h2 text-center">
+            <span style="color: green">Catalogue</span> of all the Games
+
+            <a href="/Game/Index">
+                <button id="first-inner-btn" type="button" class="btn btn-success">Explore Now</button>
+            </a>
+
+        </div>
+        <br>
+
+
+        <img src="~/pics/manygames.png" class="img-fluid" alt="" />
+
+
+
+
+    </div>
+</section>
+
+
+
+
+
+
+
+<section id="all-consoles">
+
+    <div class="container-fluid position-relative">
+
+
+
+        <div class="inner-text text-wrap">
+
+            <div class="h2 text-center text-wrap">
+                Brand-new Consoles you just <br> can't afford to miss
+                <a href="/Console/Index">
+                    <button id="first-inner-btn" type="button" class="btn btn-success">Explore Now</button>
+                </a>
+            </div>
+
+        </div>
+
+        <img src="~/pics/consoles/console2.png" class="img-fluid" alt="" />
+
+
+
+
+
+
+
+    </div>
+</section>
+
+
+
+
+
+<section id="four-icons">
+    <div class="container mt-5">
+        <div class="row  mb-5">
+            <div class="col-6 col-sm-6 col-md-3">
+                <img src="~/pics/images/freedel.png" height="100px">
+                <h5>Free Shipping</h5>
+                <p class="fs-6 text-body-tertiary">Free Shipping on All Order</p>
+            </div>
+            <div class="col-6 col-sm-6 col-md-3">
+                <img src="~/pics/images/great.png" height="100px" alt="">
+                <h5>SUPPORT 24/7</h5>
+                <p class="fs-6 text-body-tertiary">Contact us 24 hours a day, 7 days a week</p>
+            </div>
+            <div class="col-6 col-sm-6 col-md-3">
+                <img src="~/pics/images/return.jpg" height="100px" alt="">
+                <h5>7 DAYS RETURN</h5>
+                <p class="fs-6 text-body-tertiary">Simply return it within 7 days for an exchange.</p>
+            </div>
+            <div class="col-6 col-sm-6 col-md-3">
+                <img src="~/pics/images/secure.png" height="100px" alt="">
+                <h5>100% PAYMENT SECURE</h5>
+                <p class="fs-6 text-body-tertiary">We ensure secure payment</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<button id="myspecialbutton">
+    Click Me
+</button>
+
+<div id="myspecialdiv">
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        const $specialDiv = $('#myspecialdiv'); // Use lowercase 'd' in 'myspecialdiv'
+
+
+
+        const $list = $('<ul>');
+        const $listItem = $('<li>');
+
+        $listItem.text('Item1');
+
+        $list.append($listItem);
+
+        $specialDiv.append($list); // Corrected method to 'append'
+        $specialDiv.attr('style', 'background-color:blue; display:none; ')
+
+        $('#myspecialbutton').on('click', function (event) {
+            $specialDiv.css('display', 'block');
+        });
+    });
+</script>

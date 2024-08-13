@@ -1,0 +1,112 @@
+﻿@{
+    Layout = null;
+}
+@model Product
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Product Form</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            background-color: #f8f9fa; /* Light gray background */
+        }
+
+        .card-container {
+            max-width: 600px;
+            margin: auto;
+            margin-top: 50px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Box shadow */
+        }
+
+        .card-title {
+            text-align: center; /* Center align the text */
+        }
+    </style>
+</head>
+<body>
+
+
+        <div class="text-center my-5">
+            <h1 style="color:forestgreen; font-weight:700;">GameScape</h1>
+        </div>
+
+
+
+
+
+    <div class="card-container">
+        <div class="card">
+            <div class="card-body">
+                <h2 class="card-title">Edit Product</h2>
+                <form asp-action="Edit" asp-route-id="@Model.Id" method="post">
+                    <div class="form-group">
+                        <label for="ProductName">Product Name</label>
+                        <input type="text" class="form-control" value="@Model.GameTitle" name="ProductName" id="ProductName" placeholder="Product Name" required>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="Price">Price </label>
+                        <input type="text" class="form-control" value="@Model.Price" name="Price" id="Price" placeholder="" required>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="Quantity">Quantity </label>
+                        <input type="text" class="form-control" value="@Model.Quantity" name="Quantity" id="Quantity" placeholder="" required>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="ProductType"> Product Type </label>
+                        <input type="text" class="form-control" value="@Model.ProductType" name="ProductType" id="ProductType" placeholder="" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="CoverPhotoPath"> Cover Photo </label>
+                        <input type="text" class="form-control" value="@Model.CoverPhotoPath" name="CoverPhotoPath" id="CoverPhotoPath" placeholder="" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="ScreenshotPath"> ScreenshotPath</label>
+                        <input type="text" class="form-control" value="@Model.ScreenshotPath" name="ScreenshotPath" id="ScreenshotPath" placeholder="" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Features"> Features</label>
+                        <input type="text" class="form-control" value="@Model.Features" name="Features" id="Features" placeholder="" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="ThumbnailPath"> ThumbnailPath</label>
+                        <input type="text" class="form-control" value="@Model.ThumbnailPath" name="ThumbnailPath" id="ThumbnailPath" placeholder="" required>
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="ThumbnailPath"> TrailerPath</label>
+                        <input type="text" class="form-control" value="@Model.TrailerPath" name="TrailerPath" id="TrailerPath" placeholder="" required>
+                    </div>
+                    
+
+
+                    <button type="submit" class="btn w-100 btn-success mt-5">Update</button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
+
