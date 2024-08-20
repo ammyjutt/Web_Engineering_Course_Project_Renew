@@ -1,0 +1,180 @@
+
+.nav-item::after {
+    content: "";
+    display: block;
+    width: 0px;
+    height: 2px;
+    background: #0c841c;
+    transition: 0.2s;
+}
+
+.nav-item:hover::after {
+    width: 100%;
+}
+
+.navbar-dark .navbar-nav .active > .nav-link,
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.show,
+.navbar-dark .navbar-nav .show > .nav-link,
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #0c841c;
+}
+
+.nav-link {
+    padding: 15px 5px;
+    transition: 0.2s;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    color: #212529;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    background: #0c841c;
+}
+
+/* own style */
+
+#navbar-buttons-div {
+    display: inline-flex;
+}
+
+.mysb {
+    height: 40px;
+    border-radius: 30px;
+}
+
+#pic1 {
+    height: 700px;
+}
+
+.navbar-nav a {
+    color: #081f1f; /* Replace with your desired color (e.g., red) */
+    font-weight: 400;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-rows: minmax(100px, 260px) minmax(100px, 260px) minmax( 100px, 300px );
+    grid-template-columns: minmax(100px, 350px) minmax(100px, 350px) minmax(100px, 350px) minmax(100px, 350px);
+    grid-template-areas:
+        "pic1 pic2 pic3 pic3"
+        "pic4 pic4 pic3 pic3"
+        "pic4 pic4 pic5 pic6";
+    gap: 4px;
+}
+
+#grid-area-1 {
+    grid-area: pic1;
+}
+
+#grid-area-2 {
+    grid-area: pic2;
+}
+
+#grid-area-3 {
+    grid-area: pic3;
+}
+
+#grid-area-4 {
+    grid-area: pic4;
+}
+
+
+
+
+.genrecol .btn {
+    height: 120px;
+    width: 200px;
+    margin: 0px;
+    background-color: rgb(224, 228, 226);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.genrecol h6 {
+    color: rgb(39, 77, 54);
+}
+
+#genrebox {
+    display: inline-block;
+}
+
+    #genrebox .btn:hover {
+        border: 2px solid rgba(22, 127, 22, 255);
+        transform: scale(1.05);
+    }
+
+#front-image-section img {
+    height: 800px;
+}
+
+#brand-name {
+    font-size: xx-large;
+    font-weight: 600;
+    color: #0c841c;
+}
+
+.navbar-button-text {
+    font-size: 1rem;
+    color: black;
+}
+
+#freedom-text {
+    margin-top: 70%;
+    margin-left: 1rem;
+}
+
+#aio-text {
+    margin: 1.5rem;
+}
+
+
+#services-buttons {
+    margin-top: 5rem;
+}
+
+
+
+.inner-text {
+    position: absolute;
+    top: 50%;
+    margin-left: 3rem;
+}
+
+
+
+
+
+.fa-icon {
+    /* Target your Font Awesome icon class */
+    color: black;
+}
+
+#login-signup-container {
+    margin-top: 40%;
+}
+
+section {
+    margin-bottom: 7rem;
+}
+
+#images-grid-section {
+    margin-top: 5rem;
+}
+
+
+
+.navbar-cont {
+    height: 4rem;
+}
+
+
+    .navbar-cont span {
+        font-size: large;
+        font-weight: 600;
+    }
+

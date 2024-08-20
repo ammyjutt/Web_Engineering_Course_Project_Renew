@@ -17,7 +17,7 @@
     <link href="~/css/game.css" rel="stylesheet" />
     <link href="~/css/last.css" rel="stylesheet" />
 
-
+    
 
 
     <style>
@@ -601,7 +601,53 @@
 
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="~/js/search.js"></script>
+
+    @* <script src="~/js/search.js"></script> *@
+    <script>
+        $(document).ready(function () {
+            const $searchBar = $('#searchInput');
+            const $searchForm = $('#searchForm');
+            const $searchResults = $('#searchResults');
+
+            console.log('Reached 1');
+
+
+
+
+            $searchBar.on('input', function () {
+                const query = $searchBar.val();
+
+                if (query.length >= 3) {
+                    console.log('Reached 2');
+                    // Start searching after 3 characters
+                    $.ajax({
+                        url: $searchForm.data('url'),
+                        type: 'GET',
+                        data: { query: query }, // Send the query as a parameter
+                        dataType: 'json',
+                        success: function (data) {
+                            //console.log(data);
+                            $searchResults.empty();
+                            if (data.length > 0) {
+                                $.each(data, function (index, item) {
+                                    let anchor = '<a class="dropdown-item" href="/Game/ShowSpecificProduct/' + item.id + '">' + item.name + '</a>';
+                                    $searchResults.append(anchor);
+                                });
+                                $searchResults.addClass('show');
+                            } else {
+                                $searchResults.removeClass('show');
+                            }
+                        },
+                        error: function (error) {
+                            console.error('Error:', error);
+                        }
+                    });
+                } else {
+                    $searchResults.removeClass('show');
+                }
+            });
+        });
+    </script>
 
 
 

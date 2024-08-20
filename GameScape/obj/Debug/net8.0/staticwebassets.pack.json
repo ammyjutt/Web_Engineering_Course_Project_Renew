@@ -685,6 +685,14 @@
       "PackagePath": "staticwebassets\\css\\last.css"
     },
     {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

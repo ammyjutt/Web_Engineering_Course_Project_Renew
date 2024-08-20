@@ -38,13 +38,13 @@ namespace web_project.Controllers
         //[HttpPost]
         //public IActionResult Search(string query)
         //{
-        //    ProductRepository productsRepository = new ProductRepository();
+
         //    List<Product> products = productsRepository.GetSearchResults(query);
 
         //    List<CartItems> cartItems = new List<CartItems>();
-        //    foreach(Product p in products)
+        //    foreach (Product p in products)
         //    {
-        //        cartItems.Add(new CartItems { Id = p.Id, Name = p.GameTitle, Price = p.Price, Image = p.CoverPhotoPath, Category = p.ProductType, Quantity = p.Quantity});
+        //        cartItems.Add(new CartItems { Id = p.Id, Name = p.GameTitle, Price = p.Price, Image = p.CoverPhotoPath, Category = p.ProductType, Quantity = p.Quantity });
         //    }
 
         //    return View(cartItems);
@@ -58,7 +58,8 @@ namespace web_project.Controllers
 
 
 
-            var searchResults = products.Select(p => new {
+            var searchResults = products.Select(p => new
+            {
                 Id = p.Id,
                 Name = p.GameTitle,
                 p.Price,

@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameScape")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26d4ed64674f5558213f6d68340dfcaa8bfaa997")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameScape")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameScape")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

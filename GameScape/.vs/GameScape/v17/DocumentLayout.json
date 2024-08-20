@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\models\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:models\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\shared\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\shared\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\wwwroot\\js\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:wwwroot\\js\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\console\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\console\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,10 +107,6 @@
       "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\order\\orderplaced.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -91,16 +119,8 @@
       "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\controllers\\consolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:controllers\\consolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\wwwroot\\js\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:wwwroot\\js\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\product\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -109,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\models\\myuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,20 +147,8 @@
       "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\shared\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\shared\\_identitylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\xbox\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\xbox\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\console\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\console\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|solutionrelative:views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F94A59D2-A986-4447-A9D0-53772CC1283D}|GameScape.csproj|c:\\users\\7mram\\documents\\gamescape renew\\gamescape\\views\\xbox\\specificxbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -178,11 +182,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 34,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "wwwroot\\css\\styles.css",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T06:30:03.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Models\\IProductRepository.cs",
@@ -190,12 +207,11 @@
               "RelativeToolTip": "Models\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T16:10:55.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T16:10:55.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Models\\IOrderRepository.cs",
@@ -203,12 +219,11 @@
               "RelativeToolTip": "Models\\IOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T16:05:03.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T16:05:03.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "MyUser.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\MyUser.cs",
               "RelativeDocumentMoniker": "Models\\MyUser.cs",
@@ -220,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -228,12 +243,11 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T05:51:28.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-25T05:51:28.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "Utils.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\Utils.cs",
               "RelativeDocumentMoniker": "Models\\Utils.cs",
@@ -245,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Models\\OrderRepository.cs",
@@ -253,12 +267,11 @@
               "RelativeToolTip": "Models\\OrderRepository.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAswBAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T05:27:41.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T05:27:41.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Models\\IGenericRepository.cs",
@@ -266,12 +279,11 @@
               "RelativeToolTip": "Models\\IGenericRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T05:22:57.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-24T05:22:57.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
@@ -283,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "ViewProducts.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Product\\ViewProducts.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\ViewProducts.cshtml",
@@ -295,44 +307,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 4,
               "Title": "search.js",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\js\\search.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\search.js",
               "ToolTip": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\wwwroot\\js\\search.js",
               "RelativeToolTip": "wwwroot\\js\\search.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAADAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwB8AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-24T04:13:15.741Z"
+              "WhenOpened": "2024-07-24T04:13:15.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAJMAAAAAAAAAAAAiwKUAAAAAAAAA",
+              "ViewState": "AQIAAF8CAAAAAAAAAAAAAGUCAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-22T18:51:23.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAM8AAAAAl7kCq94pwMoAAABEAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:28:01.298Z"
+              "WhenOpened": "2024-06-03T16:28:01.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 3,
               "Title": "_IdentityLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Shared\\_IdentityLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_IdentityLayout.cshtml",
@@ -340,11 +354,12 @@
               "RelativeToolTip": "Views\\Shared\\_IdentityLayout.cshtml",
               "ViewState": "AQIAABoAAAAAAAAAAAAAACIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T16:57:47.669Z"
+              "WhenOpened": "2024-07-21T16:57:47.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "OrderPlaced.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Order\\OrderPlaced.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\OrderPlaced.cshtml",
@@ -352,12 +367,11 @@
               "RelativeToolTip": "Views\\Order\\OrderPlaced.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T06:57:10.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T06:57:10.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Order\\Checkout.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\Checkout.cshtml",
@@ -365,12 +379,11 @@
               "RelativeToolTip": "Views\\Order\\Checkout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T06:53:01.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T06:53:01.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "SpecialPage.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Home\\SpecialPage.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\SpecialPage.cshtml",
@@ -382,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "Genre.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Game\\Genre.cshtml",
               "RelativeDocumentMoniker": "Views\\Game\\Genre.cshtml",
@@ -394,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "SpecificXbox.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Xbox\\SpecificXbox.cshtml",
               "RelativeDocumentMoniker": "Views\\Xbox\\SpecificXbox.cshtml",
@@ -406,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Xbox\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Xbox\\Index.cshtml",
@@ -418,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "XboxController.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Controllers\\XboxController.cs",
               "RelativeDocumentMoniker": "Controllers\\XboxController.cs",
@@ -426,24 +439,24 @@
               "RelativeToolTip": "Controllers\\XboxController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAkwBoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T04:12:24.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T04:12:24.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA0wAoAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T19:15:01.971Z"
+              "WhenOpened": "2024-06-03T19:15:01.971Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "ViewFavourites.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Home\\ViewFavourites.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\ViewFavourites.cshtml",
@@ -451,12 +464,11 @@
               "RelativeToolTip": "Views\\Home\\ViewFavourites.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T16:32:37.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T16:32:37.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Models\\GenericRepository.cs",
@@ -464,12 +476,11 @@
               "RelativeToolTip": "Models\\GenericRepository.cs",
               "ViewState": "AQIAAFcAAAAAAAAAAAAswAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T07:33:50.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T07:33:50.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ViewOrdersDetails.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Order\\ViewOrdersDetails.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\ViewOrdersDetails.cshtml",
@@ -477,12 +488,11 @@
               "RelativeToolTip": "Views\\Order\\ViewOrdersDetails.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-23T07:01:26.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T07:01:26.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "CartOrder.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\CartOrder.cs",
               "RelativeDocumentMoniker": "Models\\CartOrder.cs",
@@ -490,12 +500,11 @@
               "RelativeToolTip": "Models\\CartOrder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:56:01.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T06:56:01.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -503,12 +512,11 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:43:36.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T19:43:36.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "SpecificGame.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Game\\SpecificGame.cshtml",
               "RelativeDocumentMoniker": "Views\\Game\\SpecificGame.cshtml",
@@ -520,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "SpecificConsole.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Console\\SpecificConsole.cshtml",
               "RelativeDocumentMoniker": "Views\\Console\\SpecificConsole.cshtml",
@@ -528,12 +536,11 @@
               "RelativeToolTip": "Views\\Console\\SpecificConsole.cshtml",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T19:16:33.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T19:16:33.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -541,12 +548,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:03:58.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T19:03:58.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "sessionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\sessionExtensions.cs",
               "RelativeDocumentMoniker": "Models\\sessionExtensions.cs",
@@ -554,12 +560,11 @@
               "RelativeToolTip": "Models\\sessionExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T19:03:03.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T19:03:03.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "Models\\CartItem.cs",
@@ -571,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ViewCart.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Order\\ViewCart.cshtml",
               "RelativeDocumentMoniker": "Views\\Order\\ViewCart.cshtml",
@@ -583,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
@@ -595,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -603,25 +608,24 @@
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T07:06:07.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T07:06:07.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Models\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Models\\ProductRepository.cs",
               "RelativeToolTip": "Models\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAwGwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T17:14:48.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "Controllers\\GameController.cs",
@@ -629,12 +633,11 @@
               "RelativeToolTip": "Controllers\\GameController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T18:32:57.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T18:32:57.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -642,11 +645,12 @@
               "RelativeToolTip": "Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAMcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T17:06:50.44Z"
+              "WhenOpened": "2024-05-22T17:06:50.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "ConsoleController.cs",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Controllers\\ConsoleController.cs",
               "RelativeDocumentMoniker": "Controllers\\ConsoleController.cs",
@@ -658,31 +662,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Console\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Console\\Index.cshtml",
               "ToolTip": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Console\\Index.cshtml",
               "RelativeToolTip": "Views\\Console\\Index.cshtml",
-              "ViewState": "AQIAAFcAAAAAAAAAAIBPwBMAAAAlAAAA",
+              "ViewState": "AQIAANgAAAAAAAAAAAAAAGYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-22T18:22:06.941Z"
+              "WhenOpened": "2024-05-22T18:22:06.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Game\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Game\\Index.cshtml",
               "ToolTip": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Game\\Index.cshtml",
               "RelativeToolTip": "Views\\Game\\Index.cshtml",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAkwJUAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-22T18:09:03.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "_ShowProductRow.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Shared\\_ShowProductRow.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ShowProductRow.cshtml",
@@ -694,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "AddProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\7mram\\Documents\\GameScape Renew\\GameScape\\Views\\Product\\AddProduct.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\AddProduct.cshtml",
